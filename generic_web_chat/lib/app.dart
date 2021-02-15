@@ -2,6 +2,7 @@ import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:generic_web_chat/config/size_config.dart';
 import 'package:get/get.dart';
+import 'package:http/http.dart' as http;
 
 class MyApp extends StatefulWidget {
   @override
