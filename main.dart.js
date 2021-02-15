@@ -46514,7 +46514,7 @@ N.Wq.prototype={
 $1:function(a){return!0},
 $S:35}
 F.xz.prototype={
-M:function(a,b){return new S.po(new F.pC("Our demo homepage",null),"Flutter Demo",X.a2Q(null,C.lV),null)}}
+M:function(a,b){return new S.po(new F.pC("Our demo homepage!",null),"Flutter Demo",X.a2Q(null,C.lV),null)}}
 F.pC.prototype={
 aO:function(){return new F.th(C.m)}}
 F.th.prototype={
